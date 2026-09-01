@@ -7,7 +7,7 @@ Star Wars media.
 
 Star Wars and related characters, titles, and trademarks are the property
 of their respective owners. This repository is an unofficial fan project
-and is not affiliated with or endorsed by Lucasfilm or Disney.
+and is not affiliated with or endorsed by Lucas-Film or Disney.
 
 The original compilation/organizational work in this repository is licensed
-under CC BY 4.0.
+under CC BY 4.0. This license is found [here](https://creativecommons.org/licenses/by/4.0/).
