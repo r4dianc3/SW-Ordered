@@ -1,6 +1,6 @@
 # SW-Ordered
 ***
-Check out the actual site [over here](https://rentry.org/accswlist-chrono), or alternatively, check out the chronology.md file in the repository.
+Check out the actual site [over here](https://rentry.org/accswlist-chrono), or alternatively, check out the [chronology.md](https://github.com/r4dianc3/SW-Ordered/blob/main/chronology.md) file in the repository.
 ***
 This repository contains a fan-maintained chronological compilation of
 Star Wars media.
